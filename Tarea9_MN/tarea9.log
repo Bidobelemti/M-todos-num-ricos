@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.7.21)  21 JUL 2024 19:32
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.7.21)  21 JUL 2024 19:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -881,21 +881,21 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 212.
+(Font)              scaled to size 7.665pt on input line 215.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.475pt on input line 212.
+(Font)              scaled to size 5.475pt on input line 215.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95099pt on input line 212.
+(Font)              scaled to size 10.95099pt on input line 215.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.66568pt on input line 212.
+(Font)              scaled to size 7.66568pt on input line 215.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.4755pt on input line 212.
+(Font)              scaled to size 5.4755pt on input line 215.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 212.
+(Font)              scaled to size 10.94882pt on input line 215.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 212.
+(Font)              scaled to size 7.66417pt on input line 215.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 212.
+(Font)              scaled to size 5.47441pt on input line 215.
 File: tarea9_files/figure-pdf/cell-2-output-1.png Graphic file (type bmp)
 <tarea9_files/figure-pdf/cell-2-output-1.png>
 
@@ -916,7 +916,7 @@ File: tarea9_files/figure-pdf/cell-3-output-1.png Graphic file (type bmp)
 
 [5]
 ! Text line contains an invalid character.
-l.488 ^^[
+l.491 ^^[
          [1;31m-------------------------------------------------------------... 
 Here is how much of TeX's memory you used:
  23669 strings out of 476168
