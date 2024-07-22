@@ -1,0 +1,1 @@
+from .funciones import descomposicion_LU, resolver_LU, matriz_aumentada, separar_m_aumentada, calc_determinante
