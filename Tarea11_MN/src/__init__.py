@@ -1,0 +1,1 @@
+from .funciones import gauss_seidel, gauss_jacobi
