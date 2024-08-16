@@ -1,1 +1,1 @@
-from .funciones import ODE_euler
+from .funciones import ODE_euler, ODE_euler_nth
